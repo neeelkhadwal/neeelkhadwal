@@ -34,11 +34,11 @@ Samsung Research Software Engineer      Jul 2017 → Dec 2020    India
 
 ### Highlights
 
-- 🚨 **30M abusive YouTube accounts** terminated in 6 months via a ground-truth collection library powering online + offline clustering and classifier training
-- ⚡ **Reduced channel enforcement time from 24 hours to real-time**, earning a YouTube Spot Bonus Award
-- ☁️ Built **S3-compatible object storage APIs** for Google Distributed Cloud (GDCH), integrated with AWS and Azure object storage
-- 📺 Shipped **Hotstar and Jio Cinema** for Samsung Smart TVs — 50M+ active users
-- 🧠 Showcased **Bixby voice assistant** integration at Samsung Developer Conference 2018, San Francisco
+- 🚨 **Trust and Safety @Youtube** Real time platform abuse detection and prevention, powering online + offline clustering and classifier training.
+- ⚡ **Reduced creator abuse detection time from 24 hours to real-time**, earning a YouTube Spot Bonus Award.
+- ☁️ Built **S3-compatible object storage APIs** for Google Distributed Cloud (GDCH), integrated with AWS and Azure object storage.
+- 📺 Shipped **Hotstar and Jio Cinema** for Samsung Smart TVs — 50M+ active users.
+- 🧠 **Bixby voice assistant** integration of voice assistant with web application catering Indian web OTTs.
 
 ---
 
