@@ -88,7 +88,7 @@ Samsung Research Software Engineer      Jul 2017 → Dec 2020    India
 | Degree | Institution | GPA |
 |---|---|---|
 | MS Computer Science | Arizona State University | **4.0 / 4.0** |
-| BTech Computer Science | NIT Hamirpur | 3.32 / 4.0 |
+| BTech Computer Science | NIT Hamirpur | 3.5 / 4.0 |
 
 ---
 
